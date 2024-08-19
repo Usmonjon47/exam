@@ -1,0 +1,60 @@
+h1{
+    background-color: cadetblue;
+    text-align: center;
+    border: 4px solid red;
+    border-radius: 20px;
+}
+h2{
+    text-align: center;
+    background-color: yellow;
+color: green;
+}
+textarea{
+    width: 1200px;
+}
+em{
+    color: red;
+}
+h3{
+    color: green;
+}
+button{
+    background-color: cadetblue;
+    width: 200px;
+}
+
+th{
+    border: 2px solid green;
+    background-color: green;
+    width:200px
+     ;
+}
+.fakt{
+    border: 2px solid blue;
+    background-color: blue;
+}
+.arslon{
+    border: 2px solid red;
+    background-color: red;
+    width: 200px;
+}
+.soat{
+    border: 2px solid black;
+    background-color: black;
+}
+.fil{
+    border: 2px solid red;
+    background-color: red;  
+    width: 200px;
+}
+.suv{
+    border: 2px solid black;
+    background-color: black;
+}
+table{
+    color: white;
+    border-collapse: collapse;
+}
+td{
+    width: 800px;
+}
